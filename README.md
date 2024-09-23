@@ -17,11 +17,11 @@ Create a script that loops through all the stocks for each quarter and outputs t
 
 # Solution
 
-+ The script loop through all the stocks data once and the following information displayed.
++ The script loops through all the stock data once and the following information is displayed.
 + The script will sort the distinct ticker symbol in one column in column "I" with a column header "Ticker.
-+ The script will excute Quarterly change from opening price at the beginning of a given year to the closing price at the end of that year, and put the value on "J" column. For this task the code added a conditional formatting that highlighted positive change in green and negative change in red.
++ The script will execute a Quarterly change from the opening price at the beginning of a given year to the closing price at the end of that year, and put the value in the "J" column. For this task, the code added conditional formatting that highlighted positive changes in green and negative changes in red.
 >[!Note] 
 >Conditional formatting is applied correctly and appropriately to the percent change column (Mentioned in Requirements)
-+ The script also percent perform a change from opening price at the beginning of a given year to the closing price at the end of that year, and put the value on "K" column.
-+ The total stock volume also genereated on "L" column.
++ The script also performs a percent change from the opening price at the beginning of a given year to the closing price at the end of that year and puts the value in the "K" column.
++ The total stock volume is also generated in the "L" column.
 + Calculate and display the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
